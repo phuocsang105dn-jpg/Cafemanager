@@ -1,0 +1,6 @@
+{
+  "name": "Café Manager - Quản Lý Quán Cà Phê & POS",
+  "description": "Hệ thống quản lý quán cà phê toàn diện: Tổng quan kinh doanh, Thực đơn & Tự phối món (Builder), Biến động giá nguyên liệu & dự báo, Bán hàng POS đa phương thức thanh toán.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
